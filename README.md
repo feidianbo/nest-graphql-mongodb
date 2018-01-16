@@ -1,5 +1,7 @@
 # Nest | GraphQL | MongoDB - Starter
 
+This was put together very quickly so I didn't have time to quality-control it. Please keep that in mind. It more than likely has a few bugs. I'm super busy right now so issues may not be fixed in a timely manner. Sorry!
+
 ### Getting Started
 
 Clone the repo using SSH.
