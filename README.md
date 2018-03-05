@@ -37,7 +37,7 @@ Make sure you have MongoDB installed and the Dameon running.
 
 Unix/Mac:
 ```sh
-mongo
+mongod
 ```
 
 Windows: (Not sure if this works. Shoot a PR if you know the real command!)
